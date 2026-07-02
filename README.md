@@ -45,6 +45,10 @@ Aplikasi web full-stack untuk mengelola inventaris barang. Dibangun menggunakan 
 | 1 | Monitor Samsung 24" | Elektronik | 5 | Baik | Lab 1 |
 | 2 | Keyboard Mechanical | Elektronik | 10 | Baik | Lab 2 |
 
+LAMPIRAN
+Link GitHub: https://github.com/ridhwannaufal15/UAS_Teknologi_Web_RidhwanNaufal.git
+Link YouTube: https://youtu.be/dz_KqX4IZHs?si=kRyKxogGVvzBKdeb
+
 ##  Cara Menjalankan Aplikasi
 
 ```bash
