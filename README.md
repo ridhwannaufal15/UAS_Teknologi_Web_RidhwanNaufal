@@ -49,6 +49,10 @@ LAMPIRAN
 Link GitHub: https://github.com/ridhwannaufal15/UAS_Teknologi_Web_RidhwanNaufal.git
 Link YouTube: https://youtu.be/dz_KqX4IZHs?si=kRyKxogGVvzBKdeb
 
+
+LAPORAN
+https://drive.google.com/file/d/1AAbE538Gctt1Fj9uEh9zh2OJuG8mKK2m/view?usp=sharing
+
 ##  Cara Menjalankan Aplikasi
 
 ```bash
