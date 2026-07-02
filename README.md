@@ -1,0 +1,2 @@
+# UAS_Teknologi_Web_RidhwanNaufal
+Aplikasi Inventaris barang
